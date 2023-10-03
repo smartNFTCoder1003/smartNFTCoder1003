@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Rust for developing smart contracts on Solana.
 - 👯 I’m looking to collaborate on developing trend NFT games.
 - 📫 Discord ID: smartcoder1003
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=john082Coder&label=Profile%20views&color=0e75b6&style=flat" alt="john082Coder" /> </p>
 <p align="center" style = "size:16px;">
 ### Languages and Tools:
 
