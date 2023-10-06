@@ -2,12 +2,9 @@
 
 ### Software/DevOps/Platform Engineer
 
-- 🔭 I’m currently working on: __DevOps/Site Reliability & Platform Engineering__ 
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Go__
-- 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 🧧 Chinese name: __畢少謙__
+- 🔭 I’m currently working on: several blockchain projects related to DeFi and NFT.
+- 🌱 I’m currently learning: Rust for developing smart contracts on Solana
 - ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
-
 <br/>
 
 
@@ -19,10 +16,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://colin-but.medium.com/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://dev.to/smartnftcoder1003/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
         <td>
-            <a href="https://colinbut.github.io/">🌐</a>
+            <a href="https://smartNFTCoder1003.github.io/">🌐</a>
         </td>
         <td>
             <a href="https://colinbut.github.io/online-resume">📃</a>
