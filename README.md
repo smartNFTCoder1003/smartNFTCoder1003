@@ -44,7 +44,6 @@
             <a href=""><img src="https://github.com/msilucifer/msilucifer/blob/master/solidity.png"/></a>
             <a href=""><img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/msilucifer/" /></a>
             <a href=""><img src="https://img.shields.io/badge/-Web3-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/msilucifer" /></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/flutter/flutter-plain.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
