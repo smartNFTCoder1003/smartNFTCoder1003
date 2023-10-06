@@ -12,17 +12,13 @@
     <tr>
         <th>My Blog</th>
         <th>My Website</th>
-        <th>My CV</th>
     </tr>
     <tr>
         <td>
             <a href="https://dev.to/smartnftcoder1003/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
         <td>
-            <a href="https://smartNFTCoder1003.github.io/">🌐</a>
-        </td>
-        <td>
-            <a href="https://colinbut.github.io/online-resume">📃</a>
+            <a href="https://smartnftcoder1003-profiile-com.onrender.com/">🌐</a>
         </td>
     </tr>
 </table>
