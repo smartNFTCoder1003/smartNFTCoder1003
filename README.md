@@ -1,6 +1,6 @@
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Denys Tatarinov
 
-### Software/DevOps/Platform Engineer
+### Frontend/Blockchain/Platform Engineer
 
 - 🔭 I’m currently working on: several blockchain projects related to DeFi and NFT.
 - 🌱 I’m currently learning: Rust for developing smart contracts on Solana
