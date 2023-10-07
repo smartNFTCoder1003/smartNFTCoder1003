@@ -153,15 +153,15 @@
 <table>
     <tr>
         <td>
-            <img alt="status" src="https://github-readme-stats.vercel.app/api?username=smartNFTCoder1003&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
+            <img alt="status" src="https://github-readme-stats.vercel.app/api?username=smartnftcoder1003&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartNFTCoder1003"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartnftcoder1003"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartNFTCoder1003&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartnftcoder1003&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
