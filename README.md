@@ -18,7 +18,7 @@
             <a href="https://dev.to/smartnftcoder1003/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
         <td>
-            <a href="https://smartnftcoder1003-profiile-com.onrender.com/">🌐</a>
+            <a href="https://my-profile-tsmm.onrender.com//">🌐</a>
         </td>
     </tr>
 </table>
