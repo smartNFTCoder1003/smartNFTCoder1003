@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Denys Tatarinov
+# Hello there 👋, I'm Daniel Castro
 
 ### Frontend/Blockchain/Platform Engineer
 
